@@ -33,8 +33,8 @@ Invader Zim Reference
 
 ## Does this work with youtube videos?
 
-![shocked hamser](https://www.youtube.com/watch?v=y8Kyi0WNg40)
+[![shocked hamster](https://github.com/petrellaperspective/Koitech/blob/main/github_images/hamster_image_edited.png)](https://www.youtube.com/watch?v=y8Kyi0WNg40)
 
 Testing images
 
-![hitchhikers](https://github.com/petrellaperspective/Koitech/blob/main/solongandthanksforallthefish.jpg)
+![hitchhikers]https://github.com/petrellaperspective/Koitech/blob/main/solongandthanksforallthefish.jpg)
