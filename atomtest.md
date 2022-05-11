@@ -32,9 +32,10 @@ Invader Zim Reference
 ![Germs have no power here](https://github.com/petrellaperspective/Koitech/blob/main/github_images/clean_lemonyfreshvictory.gif)
 
 ## Does this work with youtube videos?
+Yes but it only works as a video link
 
 [![shocked hamster](https://github.com/petrellaperspective/Koitech/blob/main/github_images/hamster_image_edited.png)](https://www.youtube.com/watch?v=y8Kyi0WNg40)
 
 Testing images
 
-![hitchhikers]https://github.com/petrellaperspective/Koitech/blob/main/solongandthanksforallthefish.jpg)
+![hitchhikers](https://github.com/petrellaperspective/Koitech/blob/main/solongandthanksforallthefish.jpg)
