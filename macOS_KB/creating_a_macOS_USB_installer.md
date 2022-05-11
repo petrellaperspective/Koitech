@@ -1,6 +1,6 @@
 # Creating a macOS USB Installer
 
-**Source: **https://support.apple.com/en-us/HT201372
+**Source:** https://support.apple.com/en-us/HT201372
 ## How to create a bootable installer for macOS
 
 
@@ -33,7 +33,7 @@ These advanced steps are primarily for system administrators and others who are 
 2.  Open Terminal, which is in the Utilities folder of your Applications folder.
 3.  Type or paste one of the following commands in Terminal. These assume that the installer is in your Applications folder, and MyVolume is the name of the USB flash drive or other volume you're using. If it has a different name, replace `MyVolume` in these commands with the name of your volume.
 
-**Monterey:***
+**Monterey:**
 
 ``sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume``
 
@@ -43,17 +43,17 @@ These advanced steps are primarily for system administrators and others who are 
 ``sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume``
 
 
-**Catalina:***
+**Catalina:**
 
 ``sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume``
 
 
-**Mojave:***
+**Mojave:**
 
 ``sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume``
 
 
-**High Sierra:***
+**High Sierra:**
 
 `` sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume``
 
