@@ -23,5 +23,16 @@ Block quotes for multiple lines in a paragraph
 - This is the second line
 - This is the third line
 
+**To go Boldy where no text has gone before**
+
+_italicize this you son of-_
+
+Invader Zim Reference
+
+![Germs have no power here](https://github.com/petrellaperspective/Koitech/blob/main/github_images/clean_lemonyfreshvictory.gif)
+
+
+
 Testing images
+
 ![hitchhikers](https://github.com/petrellaperspective/Koitech/blob/main/solongandthanksforallthefish.jpg)
