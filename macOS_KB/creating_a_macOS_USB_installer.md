@@ -21,7 +21,7 @@ These advanced steps are primarily for system administrators and others who are 
 ## Download macOS
 
 
-*   **Download: [macOS Monterey](https://apps.apple.com/us/app/macos-monterey/id1576738294?mt=12), [macOS Big Sur](https://apps.apple.com/us/app/macos-big-sur/id1526878132?mt=12), [macOS Catalina](https://apps.apple.com/us/app/macos-catalina/id1466841314?mt=12), [macOS Mojave](https://apps.apple.com/us/app/macos-mojave/id1398502828?mt=12), **or** [macOS High Sierra](https://apps.apple.com/us/app/macos-high-sierra/id1246284741?mt=12) **
+*   **Download:** [macOS Monterey](https://apps.apple.com/us/app/macos-monterey/id1576738294?mt=12), [macOS Big Sur](https://apps.apple.com/us/app/macos-big-sur/id1526878132?mt=12), [macOS Catalina](https://apps.apple.com/us/app/macos-catalina/id1466841314?mt=12), [macOS Mojave](https://apps.apple.com/us/app/macos-mojave/id1398502828?mt=12), **or** [macOS High Sierra](https://apps.apple.com/us/app/macos-high-sierra/id1246284741?mt=12) **
     These download to your Applications folder as an app named Install macOS [version name]. If the installer opens after downloading, quit it without continuing installation. To get the correct installer, download from a Mac that is using macOS Sierra 10.12.5 or later, or El Capitan 10.11.6\. Enterprise administrators, please download from Apple, not a locally hosted software-update server. 
 *   **Download: [OS X El Capitan](http://updates-http.cdn-apple.com/2019/cert/061-41424-20191024-218af9ec-cf50-4516-9011-228c78eda3d2/InstallMacOSX.dmg)** This downloads as a disk image named InstallMacOSX.dmg. On a Mac that is compatible with El Capitan, open the disk image and run the installer within, named InstallMacOSX.pkg. It installs an app named Install OS X El Capitan into your Applications folder. You will create the bootable installer from this app, not from the disk image or .pkg installer.
 
@@ -38,7 +38,7 @@ These advanced steps are primarily for system administrators and others who are 
 ``sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume``
 
 
-**Big Sur:***
+**Big Sur:**
 
 ``sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume``
 
@@ -118,21 +118,21 @@ A bootable installer doesn't download macOS from the internet, but it does requi
 
 For information about the `createinstallmedia` command and the arguments you can use with it, make sure that the macOS installer is in your Applications folder, then enter the appropriate path in Terminal:
 
-/Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia
+`/Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia`
 
 
-/Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia
+`/Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia`
 
 
-/Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia
+`/Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia`
 
 
-/Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia
+`/Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia`
 
 
-/Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia
+`/Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia`
 
 
-/Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia
+`/Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia`
 
-Published Date: October 25, 2021
+_Published Date: October 25, 2021_
