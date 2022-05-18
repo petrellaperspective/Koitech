@@ -1,0 +1,37 @@
+#!/bin/bash
+
+# Move test folder from Documents to Desktop
+
+# exit when command fails
+set -e
+
+# track the last executed command
+trap 'last_command=$current_command; current_command=mv' DEBUG
+# echo an error message before exiting
+trap 'echo "\"$last_command\" command filed with exit code$?."' EXIT
+
+# Select what file you want to move
+read -e -p "What folder do you want to move:" Source
+
+if [ -d "$Source" ];
+then
+
+  echo "Path exists and is ready to go"
+else
+  { echo "path does not exist search another castle"; exit 1; }
+fi
+
+# Where the file will be sent
+read -e -p "Where you do you want this to go?:" Target
+
+if [ -d "$Target" ];
+then
+
+  echo "Target Locked commence ignition"
+else
+
+  { echo "No Lock on Target. Switch to alternative"; exit 1; }
+fi
+
+# The meat and potatoes of moving the file
+mv -hv "$Source" "$Target"; echo "$Source was moved to $Target SUCCESSFULLY"
