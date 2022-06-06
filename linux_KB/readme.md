@@ -29,6 +29,6 @@ Gives you the available arguments associated with that command and command help
 EXAMPLE
 `apropos zip`
 
-(insert picture here)
+![Apropos Example](https://github.com/petrellaperspective/Koitech/blob/main/github_images/apropos_example.png)
 
 _Source:_  https://ss64.com/bash/apropos.html
