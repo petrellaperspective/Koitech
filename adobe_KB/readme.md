@@ -5,10 +5,11 @@ you out and reduces the frustration and exasperation of dealing with Adobe_
 
 ## Adobe Issue (Keychain, Unauthenticated Warnings) macOS
 
-**Problem:**
-User continuously gets keychain popups (Mac)
+#### **Problem**
 
-**Solution:**
+User continuously gets keychain popups whenever they launch or run an adobe application (Mac)
+
+#### **Solution**
 
 Reset the keychain
 This will purge any system-saved passwords - make sure the user is aware!
@@ -30,11 +31,11 @@ Everything should work, now.
 
 ## Unauthenticated Iissues macOS and Windows
 
-**Problem:**
+#### **Problem**
 
 If the user has had previous Adobe products on their system (from another school, free trials, etc), they may run into an unauthenticated warning.
 
-**Solution:**
+#### **Solution**
 
 Uninstall the trial products, log out of any trial accounts
 If the issue persists, remove every **_existing_** Adobe product and try again by using Adobe Cleaner Tool https://helpx.adobe.com/creative-cloud/kb/cc-cleaner-tool-installation-problems.html
