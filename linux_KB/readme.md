@@ -2,6 +2,11 @@
 
 _For all troubleshooting and references to linux_
 
+## REFERENCES
+
+[How to create a custom keyboard shortcut in Linux Mint](https://github.com/petrellaperspective/Koitech/blob/main/linux_KB/customkeybinding.md)
+
+
 ## TROUBLESHOOTING
 
 
