@@ -7,3 +7,7 @@
 [Windows Troubleshooting](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_troubleshooting.md)
 
 [Obtaining Windows Product Key on Current System](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_productkeyinfo.md)
+
+[Tweaking and Adjusting Windows](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_tweaking.md)
+
+[Using Netplwiz](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_netplwiz.md)
