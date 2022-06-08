@@ -17,5 +17,7 @@ Disabling haven't found any drawbacks and the speed increase was quite noticeabl
 
 ## Further reading
 [Microsoft Forum thread trying to investigate errors relating to it](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/appreadiness-service-and-black-screen/m-p/1107153)
+
 [HP Forums Thread](https://h30434.www3.hp.com/t5/Desktop-Boot-and-Lockup/SOLVED-For-everyone-who-is-having-black-screen-after-login/td-p/6318990/page/2)
+
 [Reddit Thread](https://h30434.www3.hp.com/t5/Desktop-Boot-and-Lockup/SOLVED-For-everyone-who-is-having-black-screen-after-login/td-p/6318990/page/2)
