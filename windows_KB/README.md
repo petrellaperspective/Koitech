@@ -11,3 +11,5 @@
 [Tweaking and Adjusting Windows](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_tweaking.md)
 
 [Using Netplwiz](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_netplwiz.md)
+
+[Checking the battery life on a Windows Machine](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_checkingbatteryhealth.md)

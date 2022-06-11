@@ -31,7 +31,7 @@ Scroll down or do a find for **Battery capacity history**
 
 Which will look like below
 
-Image1
+![Battery Screenshot](https://github.com/petrellaperspective/Koitech/blob/main/github_images/battery_capacityhistory.PNG)
 
 **_Source_**
 
