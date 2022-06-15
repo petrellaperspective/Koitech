@@ -13,3 +13,7 @@
 [Using Netplwiz](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_netplwiz.md)
 
 [Checking the battery life on a Windows Machine](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_checkingbatteryhealth.md)
+
+[Seeing what GPOs are on the current machine](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_checkinggposonsystem.md)
+
+[Windows not showing latest available updates](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_notshowinglatestupdates.md)
