@@ -80,7 +80,7 @@ https://www.thewindowsclub.com/reinstall-preinstalled-apps-windows-10
 
 At the time of this writing this is the script's code for confirmation.
 
-NOTE: the copied formatting may not perfectly match so DO NOT strictly copy from this code block.
+_NOTE: the copied formatting may not perfectly match so DO NOT strictly copy from this code block._
 
 
 ```
@@ -129,9 +129,15 @@ If you need to only reinstall a single app you can specify it in the script like
 ### Sources and Further Reading 
 
 https://www.thewindowsclub.com/reset-windows-store-cache
+
 https://www.thewindowsclub.com/reinstall-preinstalled-apps-windows-10
+
 https://www.thewindowsclub.com/re-register-windows-store-apps
+
 https://lazyadmin.nl/it/uninstall-microsoft-store-and-default-apps/
+
 https://superuser.com/questions/1018168/replace-app-package-on-windows-10
+
 https://thegeekpage.com/windows-10-store-cache-damaged-resolved/
+
 https://www.maketecheasier.com/access-windowsapps-folder-windows-10/
