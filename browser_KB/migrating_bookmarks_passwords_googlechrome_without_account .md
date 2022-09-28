@@ -16,7 +16,7 @@ To grab the autofill and passwords requires a few more steps.
 
 On the original machine open Chrome and go to **Settings** then **Autofill** then **Password Manager** 
 
-Image01
+![screenshot1.PNG](https://github.com/petrellaperspective/Koitech/blob/main/github_images/search_flags_chrome04.PNG)
 
 Graphical user interface, text, application
 
@@ -26,17 +26,15 @@ Then click the three dots on the same line as Saved Passwords and next to the Ad
  
 NOTE: This is NOT the vertical dots by each password entry though their proximity is close. Blame Google's UI 
 
- Image02
+![screenshot2.PNG](https://github.com/petrellaperspective/Koitech/blob/main/github_images/search_flags_chrome03.PNG)
 
 You'll be prompted by this message below 
 
-Image03
+![screenshot3.PNG](https://github.com/petrellaperspective/Koitech/blob/main/github_images/search_flags_chrome05.PNG)
 
 SUPER IMPORTANT NOTE: These passwords once exported will be in CSV plaintext meaning anyone with access to this file will be able to read everything. Ensure to delete all traces of this file after it is imported 
  
 Then save the file to somewhere it can be transferred easily and removed like a flashdrive. 
-
-Image03
  
 Next you'll need to turn on an experimental feature in order to get the import passwords option. By default Google Chrome will NOT import passwords only Export. 
 
@@ -46,39 +44,30 @@ On the new machine's Google Chrome address bar type in
 
 It will take you the experimental part of Chrome, and despite what the name suggests this feature does work.  
 
-Image04
+![screenshot4.PNG](https://github.com/petrellaperspective/Koitech/blob/main/github_images/search_flags_chrome.PNG)
 
 type in  
 
-password import 
-
- 
+`password import` 
 
 You should see this feature pop-up 
 
- 
-
- 
+ ![screenshot5.PNG](https://github.com/petrellaperspective/Koitech/blob/main/github_images/search_flags_chrome02.PNG)
 
 Select the Default dropdown and select Enable. You will have to relaunch Google Chrome for the changes to take effect. 
 
- 
-
  Once added you'll get the option to import passwords and select the file from earlier going to the same 3 vertical dots you used to export the passwords. 
 
- Image 05
+![screenshot6.PNG](https://github.com/petrellaperspective/Koitech/blob/main/github_images/search_flags_chrome07.PNG)
 
 After the passwords are imported you'll see them populate that page. 
 
 Remember to disable the Password Import feature by going back to 
 
- chrome://flags and selecting Disable from the drown down menu.  
+ `chrome://flags` and selecting Disable from the drown down menu.  
 
- 
 
 Then make sure to delete all copies of the password file.  
-
- 
 
 Congrats! All the autofills and saved Google information should have transferred without using a Google Account. 
 

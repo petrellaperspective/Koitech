@@ -19,7 +19,7 @@ Check to see if the application is listed there under this directory. This shoul
 
 `C:\Users\billycfabbage\AppData\Local\Packages`
 
-![packages_Names.PNG](https://hypernotes.zenkit.com/api/v1/lists/2096297/files/XiPUdXDMJ)
+![packages_Names.PNG](https://github.com/petrellaperspective/Koitech/blob/main/github_images/packages_Names.PNG)
 
 I would also use an utility called Bulk Crap Uninstaller linked here https://github.com/Klocman/Bulk-Crap-Uninstaller to see if the app apears there at all. If not, it is not properly installed or registered on the account or the computer.
 
@@ -55,11 +55,11 @@ _Note: 95% of the time this will show no problems and or not resolve the issue. 
 You can reset the cache of the Windows Store in two ways
 
 Go to Settings > Apps & Features go to Microsoft Store and select **Advanced Options**
-![microsoft_store_advanced.PNG](https://hypernotes.zenkit.com/api/v1/lists/2096297/files/J1sKp85JI)
+![microsoft_store_advanced.PNG](https://github.com/petrellaperspective/Koitech/blob/main/github_images/microsoft_store_advanced.PNG)
 
 Then hit ** Reset** at Reset portion of the page near the  bottom
 
-![reset_repair_microsoft_store.PNG](https://hypernotes.zenkit.com/api/v1/lists/2096297/files/yHNkS44Q4)
+![reset_repair_microsoft_store.PNG](https://github.com/petrellaperspective/Koitech/blob/main/github_images/reset_repair_microsoft_store.PNG)
 
 Then after the reset restart the machine.
 
