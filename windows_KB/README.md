@@ -4,6 +4,8 @@
 
 [How to Get applications to start with Windows](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_applicationstart.md)
 
+[Windows Microsoft Store apps not loading properly](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_microsoftstore_apps_not_loading.md)
+
 [Windows Troubleshooting](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_troubleshooting.md)
 
 [Obtaining Windows Product Key on Current System](https://github.com/petrellaperspective/Koitech/blob/main/windows_KB/windows_productkeyinfo.md)
