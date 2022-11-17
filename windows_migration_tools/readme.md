@@ -12,7 +12,7 @@ Using the migration script is straight forward but there’s few notes to keep i
 
 1. Because this script is not signed, you must make powershell able to run scripts unrestricted. While in the user’s account on the original machine, run powershell as administrator. Then **enter set-executionpolicy unrestricted** then hit **A** + enter for the next prompt. 
 
-### NOTE: _Keep this window open to remind you to set it back to restricted by entering set-executionpolicy restricted then hit A + enter. To check what policy is currently active simply enter get-executionpolicy_
+#### NOTE: _Keep this window open to remind you to set it back to restricted by entering set-executionpolicy restricted then hit A + enter. To check what policy is currently active simply enter get-executionpolicy_
 
 2. Run the script by right-clicking and hit run with powershell.
 
@@ -21,6 +21,7 @@ Using the migration script is straight forward but there’s few notes to keep i
 4.  It will ask you for the username which will be the username same as you login for the computer like, i.e. **billy.cabbage**. The script will ask where you want to store the data, typically this is to a drive which you can enter the drive letter like _D:\_. Be sure to pay attention to the **False** flags indicators for your path checks. This was put in to avoid failures until I could find a way to automate this. Be sure to enter the text exactly as described in the powershell instructions with no capitalization. It should report back with
 
 **True**
+
 **True**
 
 if recognizes all connections. If not, enter **no** and restart the script.
@@ -34,6 +35,7 @@ if recognizes all connections. If not, enter **no** and restart the script.
 7. Simply run the script again on the new device this time entering new. You’ll need to enter the source for where the transfer file from the last step. Again, it will report True flags if all connections were successful like so
 
 **True**
+
 **True**
 
 If not, or reports a false enter **no** to exit and restart the script.
