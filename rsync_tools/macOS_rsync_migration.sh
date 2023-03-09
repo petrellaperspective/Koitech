@@ -24,4 +24,4 @@ else
   echo "No Lock on Target. Please check the destination"
 fi
 
-rsync -avphtr --stats --progress --log-file=/Volumes/Macintosh\ HD/Users/roshakapple/Desktop/rsync_log.txt "$Source" "$Target"; osascript -e 'tell Application "Finder" to display dialog "Rsync Transfer Complete!" ' | exit
+rsync -avphtr --stats --progress --log-file=/Volumes/Macintosh\ HD/Users/$Source/Desktop/rsync_log.txt "$Source" "$Target"; osascript -e 'tell Application "Finder" to display dialog "Rsync Transfer Complete!" ' | exit
